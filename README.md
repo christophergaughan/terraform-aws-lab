@@ -36,6 +36,10 @@ While there are many strong infrastructure-as-code (IaC) tools out there (like P
 
 This example repo demonstrates these advantages in a simple, transparent way.
 
+## Architecture Diagram
+
+[View full architecture diagram PDF](docs/aws_terraform_v2.pdf)
+
 
 ### Next steps
 
